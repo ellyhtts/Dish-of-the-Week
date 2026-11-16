@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ed55a74e-0f66-4d12-aae8-14800fcad062",
+    "nome": "Café da manhã antiguano (peixe cortado e \"saltfish\")",
+    "dia": "seg",
+    "refeicao": "cafe",
+    "detalhes": "Ingredientes: 4 berinjelas, 225 g de caruru, 450 g de abóbora, 3 dentes de alho picados, 1 cebola picada, 55 g de manteiga, 1/2 colher (chá) de sal, 1/4 colher (chá) de pimenta-do-reino",
+    "imagem": "https://www.themealdb.com/images/media/meals/jvjnoh1780086318.jpg",
+    "criadoEm": "2026-11-16T01:12:24.250Z"
+  },
+  {
+    "id": "8a3e8d2a-a90b-496d-a2fd-8755d343bc5d",
+    "nome": "Hotpot de frango e cogumelos",
+    "dia": "seg",
+    "refeicao": "almoco",
+    "detalhes": "Ingredientes: 50 g de manteiga, 1 cebola picada, 100 g de cogumelos, 40 g de farinha de trigo, 1 cubo de caldo de galinha, uma pitada de noz-moscada, uma pitada de mostarda em pó, 250 g de frango, 2 punhados de milho-doce, 2 batatas grandes, 1 pedaço de manteiga",
+    "imagem": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+    "criadoEm": "2026-11-16T01:14:44.609Z"
+  },
+  {
+    "id": "496e0ff9-c13f-4e9a-96a2-4e38f1afb393",
+    "nome": "Alfajores",
+    "dia": "seg",
+    "refeicao": "lanche",
+    "detalhes": "Ingredientes: 300 g de farinha de trigo, 200 g de amido de milho, 200 g de manteiga, 100 g de açúcar, 2 gemas de ovo, 1 colher (chá) de raspas de limão, doce de leite, coco ralado para polvilhar",
+    "imagem": "https://www.themealdb.com/images/media/meals/a4kgf21763075288.jpg",
+    "criadoEm": "2026-11-16T01:15:56.795Z"
+  },
+  {
+    "id": "8601f4fe-b23b-4edf-bdd8-748126b5b74b",
+    "nome": "Sonhos poloneses (pączki)",
+    "dia": "dom",
+    "refeicao": "lanche",
+    "detalhes": "Ingredientes: 10 g de fermento, 1 colher (chá) de açúcar refinado, 1 colher (sopa) de farinha, 125 ml de leite, 7 gemas de ovo, 15 g de açúcar, 10 g de açúcar refinado, 1 colher (chá) de extrato de baunilha, 500 g de farinha, 200 ml de creme de leite fresco, 15 g de manteiga, 125 ml de geleia, 10 g de amêndoas moídas, óleo para fritar, 75 g de açúcar de confeiteiro, suco de meio limão, uma pitada de essência de amêndoas, 50 g de amêndoas",
+    "imagem": "https://www.themealdb.com/images/media/meals/x6jqog1764359857.jpg",
+    "criadoEm": "2026-11-16T01:18:18.430Z"
+  },
+  {
+    "id": "3bc2c4c6-eb29-4174-9c12-be55ff9ae6a2",
+    "nome": "Batatas para o café da manhã",
+    "dia": "qui",
+    "refeicao": "almoco",
+    "detalhes": "Ingredientes: 3 batatas médias, 1 colher (sopa) de azeite, 2 fatias de bacon, dente de alho picado, 1 colher (sopa) de xarope de bordo, salsinha para decorar, pitada de sal, pitada de pimenta, pimenta-da-jamaica a gosto",
+    "imagem": "https://www.themealdb.com/images/media/meals/1550441882.jpg",
+    "criadoEm": "2026-11-16T01:32:01.788Z"
+  },
+  {
+    "id": "fe0439f1-3484-4930-9c15-3ae1d6977b37",
+    "nome": "Crumble de maçã e amora-preta",
+    "dia": "ter",
+    "refeicao": "almoco",
+    "detalhes": "Ingredientes: 120 g de farinha de trigo, 60 g de açúcar refinado, 60 g de manteiga, 300 g de maçãs Braeburn, 30 g de manteiga, 30 g de açúcar demerara, 120 g de amoras, ¼ de colher (chá) de canela, sorvete para acompanhar",
+    "imagem": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg",
+    "criadoEm": "2026-11-16T19:01:19.854Z"
+  },
+  {
+    "id": "6ff6a4fa-3bfc-40a0-af7d-e1b175afc116",
+    "nome": "Baingan Bharta",
+    "dia": "sex",
+    "refeicao": "almoco",
+    "detalhes": "Ingredientes: 1 berinjela grande, ½ xícara de cebola, 1 xícara de tomate, 6 dentes de alho, 1 pimenta dedo-de-moça verde, ¼ de colher (chá) de pimenta dedo-de-moça em pó, 1,5 colher (sopa) de óleo, 1 colher (sopa) de folhas de coentro picadas, sal a gosto",
+    "imagem": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+    "criadoEm": "2026-11-16T19:02:12.441Z"
+  }
+]
